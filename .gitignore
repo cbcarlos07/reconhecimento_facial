@@ -1,1 +1,2 @@
 .env
+img/*.{jpg,jpeg,png,gif,bmp,tiff}
