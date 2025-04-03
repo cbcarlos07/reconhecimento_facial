@@ -1,2 +1,2 @@
 .env
-img/*.{jpg,jpeg,png,gif,bmp,tiff}
+img/known_faces/*.{jpg,jpeg,png,gif,bmp,tiff}
