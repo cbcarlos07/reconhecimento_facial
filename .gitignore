@@ -1,2 +1,8 @@
 .env
 img/known_faces/*.{jpg,jpeg,png,gif,bmp,tiff}
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
