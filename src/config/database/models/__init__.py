@@ -27,4 +27,6 @@ def setup_db_session(app):
 # Importando os modelos
 from .user import User
 from .service import Service
+from .type_person import TypePerson
+from .member import Member
 from .church import Church
